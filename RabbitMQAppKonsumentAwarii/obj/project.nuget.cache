@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJnr5MFEBRAO1wKJfq1M7FEhy/2cNp0wcarTHSLfFUurcCmNYDd7tNvQBmHKzSxiemPeNfI+rAJtJCggCW/Yfw==",
+  "success": true,
+  "projectFilePath": "F:\\Visual Studio Repos\\RabbitMQAppKonsumentAwarii\\RabbitMQAppKonsumentAwarii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\bin\Debug\net7.0\RabbitMQAppKonsumentAwarii.exe
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\bin\Debug\net7.0\RabbitMQAppKonsumentAwarii.deps.json
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\bin\Debug\net7.0\RabbitMQAppKonsumentAwarii.runtimeconfig.json
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\bin\Debug\net7.0\RabbitMQAppKonsumentAwarii.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\bin\Debug\net7.0\RabbitMQAppKonsumentAwarii.pdb
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\bin\Debug\net7.0\RabbitMQ.Client.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.csproj.AssemblyReference.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.AssemblyInfoInputs.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.AssemblyInfo.cs
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.csproj.CoreCompileInputs.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.csproj.CopyComplete
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\refint\RabbitMQAppKonsumentAwarii.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.pdb
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\RabbitMQAppKonsumentAwarii.genruntimeconfig.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentAwarii\obj\Debug\net7.0\ref\RabbitMQAppKonsumentAwarii.dll
