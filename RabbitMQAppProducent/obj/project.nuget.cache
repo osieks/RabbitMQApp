@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3PF6aeulbNSmAjN4TFcAoPFqBgyflpv7ab5WtJNIiW6Sykz68e//ZIPPbrYWJchj3Pn9BBh0HnoTBt7YBZUnw==",
+  "success": true,
+  "projectFilePath": "F:\\Visual Studio Repos\\RabbitMQAppProducent\\RabbitMQAppProducent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
