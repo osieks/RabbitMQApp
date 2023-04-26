@@ -1,0 +1,17 @@
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\bin\Debug\net7.0\RabbitMQAppKonsumentEnergia.exe
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\bin\Debug\net7.0\RabbitMQAppKonsumentEnergia.deps.json
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\bin\Debug\net7.0\RabbitMQAppKonsumentEnergia.runtimeconfig.json
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\bin\Debug\net7.0\RabbitMQAppKonsumentEnergia.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\bin\Debug\net7.0\RabbitMQAppKonsumentEnergia.pdb
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\bin\Debug\net7.0\RabbitMQ.Client.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.csproj.AssemblyReference.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.AssemblyInfoInputs.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.AssemblyInfo.cs
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.csproj.CoreCompileInputs.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.csproj.CopyComplete
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\refint\RabbitMQAppKonsumentEnergia.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.pdb
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\RabbitMQAppKonsumentEnergia.genruntimeconfig.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentEnergia\obj\Debug\net7.0\ref\RabbitMQAppKonsumentEnergia.dll
