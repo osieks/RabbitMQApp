@@ -1,0 +1,17 @@
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\bin\Debug\net7.0\RabbitMQAppKonsumentFaktury.exe
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\bin\Debug\net7.0\RabbitMQAppKonsumentFaktury.deps.json
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\bin\Debug\net7.0\RabbitMQAppKonsumentFaktury.runtimeconfig.json
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\bin\Debug\net7.0\RabbitMQAppKonsumentFaktury.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\bin\Debug\net7.0\RabbitMQAppKonsumentFaktury.pdb
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\bin\Debug\net7.0\RabbitMQ.Client.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.csproj.AssemblyReference.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.AssemblyInfoInputs.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.AssemblyInfo.cs
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.csproj.CoreCompileInputs.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.csproj.CopyComplete
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\refint\RabbitMQAppKonsumentFaktury.dll
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.pdb
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\RabbitMQAppKonsumentFaktury.genruntimeconfig.cache
+F:\Visual Studio Repos\RabbitMQAppKonsumentFaktury\obj\Debug\net7.0\ref\RabbitMQAppKonsumentFaktury.dll
