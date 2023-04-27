@@ -2,11 +2,12 @@
 Producer and 3 Consumers for an Exchange using RabbitMQ
 
 EUVIC
-System kolejkowania zgłoszeń na bazie RabbitMQ -
 
-Opis zadania:
+System kolejkowania zgłoszeń na bazie RabbitMQ
 
-Przygotuj system dystrybucji zgłoszeń oparty o kilka lekkich aplikacji i kolejkę RabbitMQ. Wymagania szczegółowe znajdziesz poniżej: 
+      Opis zadania:
+
+      Przygotuj system dystrybucji zgłoszeń oparty o kilka lekkich aplikacji i kolejkę RabbitMQ. Wymagania szczegółowe znajdziesz poniżej: 
 
       Kolejka oparta o RabbitMQ
     Exchange obsługujący trzy typy zdarzeń:
